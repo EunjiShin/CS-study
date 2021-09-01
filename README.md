@@ -85,7 +85,7 @@
 
 |주차|주제|강의|
 |:-:|:-:|:-:|
-|1주차|운영체제 개요|[1-1](https://core.ewha.ac.kr/publicview/C0101020170306154617836038), [1-2](https://core.ewha.ac.kr/publicview/C0101020170308134855263835)|
+|[1주차](https://github.com/EunjiShin/CS-study/issues/1)|운영체제 개요|[1-1](https://core.ewha.ac.kr/publicview/C0101020170306154617836038), [1-2](https://core.ewha.ac.kr/publicview/C0101020170308134855263835)|
 |2주차|컴퓨터 시스템의 구조|[2-1](https://core.ewha.ac.kr/publicview/C0101020170313141353779888), [2-2](https://core.ewha.ac.kr/publicview/C0101020170313145811055991), [2-3](https://core.ewha.ac.kr/publicview/C0101020170313151303541331), [2-4](https://core.ewha.ac.kr/publicview/C0101020170315134644924991) |
 |3주차|프로세스 관리|[3-1](https://core.ewha.ac.kr/publicview/C0101020170320142246460343), [3-2](https://core.ewha.ac.kr/publicview/C0101020170320150008154282), [3-3](https://core.ewha.ac.kr/publicview/C0101020170320151704028225), [3-4](https://core.ewha.ac.kr/publicview/C0101020170322131206999075), [3-5](https://core.ewha.ac.kr/publicview/C0101020170322134548803842)|
 |4주차|CPU 스케줄링|[4-1](https://core.ewha.ac.kr/publicview/C0101020170327144547225686), [4-2](https://core.ewha.ac.kr/publicview/C0101020170327151556728127), [4-3](https://core.ewha.ac.kr/publicview/C0101020170329132536583694), [4-4](https://core.ewha.ac.kr/publicview/C0101020170329134735568510)|
