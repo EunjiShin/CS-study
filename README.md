@@ -87,7 +87,7 @@
 | 양유진 |:white_check_mark:||||||||||||||
 | 오현택 |:white_check_mark:|:white_check_mark:|||||||||||||
 | 용길한 |:white_check_mark:|:white_check_mark:|||||||||||||
-| 장동현 |(사유O)||||||||||||||
+| 장동현 |:white_check_mark:|:white_check_mark:|||||||||||||
 | Ryan Lee |:white_check_mark:|:white_check_mark:|||||||||||||
 
 
