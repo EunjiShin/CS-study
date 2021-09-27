@@ -79,7 +79,7 @@
 | 김서연 |:white_check_mark:|:white_check_mark:|:white_check_mark:||||||||||||
 | 김서영 |:white_check_mark:|:white_check_mark:|(사유 O)||||||||||||
 | 김소미 |:white_check_mark:|:white_check_mark:|:white_check_mark:||||||||||||
-| 맹수연 |:white_check_mark:|:white_check_mark:|||||||||||||
+| 맹수연 |:white_check_mark:|:white_check_mark:|:white_check_mark:||||||||||||
 | 박근우 |:white_check_mark:|:white_check_mark:|:white_check_mark:||||||||||||
 | 서연주 |:white_check_mark:|:white_check_mark:|:white_check_mark:||||||||||||
 | 신영진 |:white_check_mark:|:white_check_mark:|:white_check_mark:||||||||||||
