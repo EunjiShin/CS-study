@@ -56,7 +56,7 @@
 |[2주차](https://github.com/EunjiShin/CS-study/issues/5)|2장 (lesson 06~08)|네트워크 통신 규칙|2장 (37-60p)|프로토콜 HTTP|
 |[3주차](https://github.com/EunjiShin/CS-study/issues/7)|3장 (lesson 09~11)|물리 계층|3장 (62-76p)|HTTP 메시지|
 |[4주차](https://github.com/EunjiShin/CS-study/issues/11)|4장 (lesson 12~16)|데이터 링크 계층|4장 (77-90p)|HTTP 상태 코드|
-|5주차|5장 (lesson 17~22)|네트워크 계층|5-6.2장 (91-112p)|웹 서버, HTTP 헤더 (1)|
+|[5주차](https://github.com/EunjiShin/CS-study/issues/13)|5장 (lesson 17~22)|네트워크 계층|5-6.2장 (91-112p)|웹 서버, HTTP 헤더 (1)|
 |6주차|6장 (lesson 23~27)|전송 계층|6.3-6.4장 (113-154p)|HTTP/1.1 일반 헤더 필드, 리퀘스트 헤더 필드|
 |7주차|7장 (lesson 28~31)|응용 계층|6.5-6.6장 (155-171p)|리스폰스 헤더 필드, 엔티티 헤더 필드|
 |8주차|8장 (lesson 32~034)|네트워크 전체 흐름|6.7-6.8장 (172-182p)|쿠키 헤더 필드, 기타 헤더 필드|
@@ -106,7 +106,7 @@
 |[2주차](https://github.com/EunjiShin/CS-study/issues/6)|컴퓨터 시스템의 구조|[2-1](https://core.ewha.ac.kr/publicview/C0101020170313141353779888), [2-2](https://core.ewha.ac.kr/publicview/C0101020170313145811055991), [2-3](https://core.ewha.ac.kr/publicview/C0101020170313151303541331), [2-4](https://core.ewha.ac.kr/publicview/C0101020170315134644924991) |
 |[3주차](https://github.com/EunjiShin/CS-study/issues/8)|프로세스 관리|[3-1](https://core.ewha.ac.kr/publicview/C0101020170320142246460343), [3-2](https://core.ewha.ac.kr/publicview/C0101020170320150008154282), [3-3](https://core.ewha.ac.kr/publicview/C0101020170320151704028225), [3-4](https://core.ewha.ac.kr/publicview/C0101020170322131206999075), [3-5](https://core.ewha.ac.kr/publicview/C0101020170322134548803842)|
 |[4주차](https://github.com/EunjiShin/CS-study/issues/12)|CPU 스케줄링|[4-1](https://core.ewha.ac.kr/publicview/C0101020170327144547225686), [4-2](https://core.ewha.ac.kr/publicview/C0101020170327151556728127), [4-3](https://core.ewha.ac.kr/publicview/C0101020170329132536583694), [4-4](https://core.ewha.ac.kr/publicview/C0101020170329134735568510)|
-|5주차|병행 제어|[5-1](https://core.ewha.ac.kr/publicview/C0101020170403144233051510), [5-2](https://core.ewha.ac.kr/publicview/C0101020170403151644920369), [5-3](https://core.ewha.ac.kr/publicview/C0101020170405134621661588)|
+|[5주차](https://github.com/EunjiShin/CS-study/issues/15)|병행 제어|[5-1](https://core.ewha.ac.kr/publicview/C0101020170403144233051510), [5-2](https://core.ewha.ac.kr/publicview/C0101020170403151644920369), [5-3](https://core.ewha.ac.kr/publicview/C0101020170405134621661588)|
 |6주차|병행 제어(2)|[6-1](https://core.ewha.ac.kr/publicview/C0101020170410151704945993), [6-2](https://core.ewha.ac.kr/publicview/C0101020170412130458495242), [6-3](https://core.ewha.ac.kr/publicview/C0101020170412134857472082)|
 |7주차|데드락|[7](https://core.ewha.ac.kr/publicview/C0101020170417145143139609)|
 |8주차|메모리 관리 (1,2)|[8-1](https://core.ewha.ac.kr/publicview/C0101020170426134700534350), [8-2](https://core.ewha.ac.kr/publicview/C0101020170501151238245167)|
@@ -154,7 +154,7 @@
 |[2주차](https://github.com/EunjiShin/CS-study/issues/4)|2장 (35-53p)|관계형 데이터베이스|3-4강 (40-47p, 52-60p)|데이터베이스 서버, Hello World 실행|
 |[3주차](https://github.com/EunjiShin/CS-study/issues/9)|3장 (57p-68p)|데이터베이스의 초기 비용|5-6강 (61-74p)|테이블 구조 참조, 검색 조건 지정|
 |[4주차](https://github.com/EunjiShin/CS-study/issues/10)|3장 (69-80p)|데이터베이스의 운영 비용|7-8강 (75-89p)|조건 조합, 패턴 매칭 검색|
-|5주차|4장 (85-102p)|데이터베이스와 아키텍처 (1)|9-10강 (94-107p)|정렬, 복수의 열 지정 정렬|
+|[5주차](https://github.com/EunjiShin/CS-study/issues/14)|4장 (85-102p)|데이터베이스와 아키텍처 (1)|9-10강 (94-107p)|정렬, 복수의 열 지정 정렬|
 |6주차|4장 (103p-115p)|데이터베이스와 아키텍처 (2)|11-12강 (108-129p)|LIMIT, 수치 연산|
 |7주차|5장 (119-139p)|DBMS 기본 지식|13-15강 (130-147p)|문자열, 날짜, CASE문|
 |8주차|6장 (143-164p)|SQL문의 기본 : SELECT (1)|16-19강 (152-177p)|데이터의 추가, 삭제, 갱신|
