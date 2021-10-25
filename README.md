@@ -59,7 +59,7 @@
 |[5주차](https://github.com/EunjiShin/CS-study/issues/13)|5장 (lesson 17~22)|네트워크 계층|5-6.2장 (91-112p)|웹 서버, HTTP 헤더 (1)|
 |[6주차](https://github.com/EunjiShin/CS-study/issues/16)|6장 (lesson 23~27)|전송 계층|6.3-6.4장 (113-154p)|HTTP/1.1 일반 헤더 필드, 리퀘스트 헤더 필드|
 |[7주차](https://github.com/EunjiShin/CS-study/issues/19)|7장 (lesson 28~31)|응용 계층|6.5-6.6장 (155-171p)|리스폰스 헤더 필드, 엔티티 헤더 필드|
-|8주차|8장 (lesson 32~034)|네트워크 전체 흐름|6.7-6.8장 (172-182p)|쿠키 헤더 필드, 기타 헤더 필드|
+|[8주차](https://github.com/EunjiShin/CS-study/issues/22)|8장 (lesson 32~034)|네트워크 전체 흐름|6.7-6.8장 (172-182p)|쿠키 헤더 필드, 기타 헤더 필드|
 |9주차|9장 (lesson 35~36)|무선 랜 통신|7장 (183-212p)|웹을 안전하게 하는 HTTPS|
 |10주차|(종료)|(종료)|8장 (213-228p)|액세스 인증|
 |11주차|(종료)|(종료)|9장 (229-248p)|HTTP에 기능을 추가한 프로토콜|
@@ -74,19 +74,19 @@
 
 | 참여자 | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 | 9주차 | 10주차 | 11주차 | 12주차 | 13주차 | 14주차 | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
-| 김민웅 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||||
-| 김서경 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||||
+| 김민웅 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|(사유 O)||||||||
+| 김서경 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||||
 | 김서연 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||||
-| 김서영 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||||
-| 김소미 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||||
-| 맹수연 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||||
-| 박근우 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||||
-| 서연주 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||||
-| 신은지 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||||
-| 오현택 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||||
-| 용길한 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||||||
-| 장동현 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||||
-| Ryan Lee |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||||
+| 김서영 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||||
+| 김소미 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|(사유 O)||||||||
+| 맹수연 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||||
+| 박근우 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||||
+| 서연주 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|(사유 O)||||||||
+| 신은지 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||||
+| 오현택 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||||
+| 용길한 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||||
+| 장동현 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||||
+| Ryan Lee |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||||
 
 
 <br>
@@ -109,7 +109,7 @@
 |[5주차](https://github.com/EunjiShin/CS-study/issues/15)|병행 제어|[5-1](https://core.ewha.ac.kr/publicview/C0101020170403144233051510), [5-2](https://core.ewha.ac.kr/publicview/C0101020170403151644920369), [5-3](https://core.ewha.ac.kr/publicview/C0101020170405134621661588)|
 |[6주차](https://github.com/EunjiShin/CS-study/issues/17)|병행 제어(2)|[6-1](https://core.ewha.ac.kr/publicview/C0101020170410151704945993), [6-2](https://core.ewha.ac.kr/publicview/C0101020170412130458495242), [6-3](https://core.ewha.ac.kr/publicview/C0101020170412134857472082)|
 |[7주차](https://github.com/EunjiShin/CS-study/issues/20)|데드락|[7](https://core.ewha.ac.kr/publicview/C0101020170417145143139609)|
-|8주차|메모리 관리 (1,2)|[8-1](https://core.ewha.ac.kr/publicview/C0101020170426134700534350), [8-2](https://core.ewha.ac.kr/publicview/C0101020170501151238245167)|
+|[8주차](https://github.com/EunjiShin/CS-study/issues/24)|메모리 관리 (1,2)|[8-1](https://core.ewha.ac.kr/publicview/C0101020170426134700534350), [8-2](https://core.ewha.ac.kr/publicview/C0101020170501151238245167)|
 |9주차|메모리 관리 (3)|[9-1](https://core.ewha.ac.kr/publicview/C0101020170508150536565534)|
 |10주차|가상 메모리|[10-1](https://core.ewha.ac.kr/publicview/C0101020140509151648408460), [10-2](https://core.ewha.ac.kr/publicview/C0101020170515151006966449)|
 |11주차|파일 시스템 (1,2)|[11-1](https://core.ewha.ac.kr/publicview/C0101020140516150939191200), [11-2](https://core.ewha.ac.kr/publicview/C0101020140520134614002164)|
@@ -123,15 +123,15 @@
 
 | 참여자 | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 | 9주차 | 10주차 | 11주차 | 12주차 | 13주차 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
-| 김민웅 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
-| 김서경 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
-| 김서영 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
-| 박근우 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
-| 서연주 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
-| 신은지 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
-| 오현택 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
-| 용길한 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||||
-| Ryan Lee |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
+| 김민웅 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|(사유 O)||||||
+| 김서경 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||
+| 김서영 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||
+| 박근우 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||
+| 서연주 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|(사유 O)||||||
+| 신은지 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||
+| 오현택 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||
+| 용길한 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||
+| Ryan Lee |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||
 
 <br>
 
@@ -157,7 +157,7 @@
 |[5주차](https://github.com/EunjiShin/CS-study/issues/14)|4장 (85-102p)|데이터베이스와 아키텍처 (1)|9-10강 (94-107p)|정렬, 복수의 열 지정 정렬|
 |[6주차](https://github.com/EunjiShin/CS-study/issues/18)|4장 (103p-115p)|데이터베이스와 아키텍처 (2)|11-12강 (108-129p)|LIMIT, 수치 연산|
 |[7주차](https://github.com/EunjiShin/CS-study/issues/21)|5장 (119-139p)|DBMS 기본 지식|13-15강 (130-147p)|문자열, 날짜, CASE문|
-|8주차|6장 (143-164p)|SQL문의 기본 : SELECT (1)|16-19강 (152-177p)|데이터의 추가, 삭제, 갱신|
+|[8주차](https://github.com/EunjiShin/CS-study/issues/23)|6장 (143-164p)|SQL문의 기본 : SELECT (1)|16-19강 (152-177p)|데이터의 추가, 삭제, 갱신|
 |9주차|6장 (165-190p)|SQL문의 기본 : SELECT (2)|20-22강 (182-203p)|집계, 그룹화|
 |10주차|7장 (195-220p)|트랜잭션과 동시성 제어|23-24강 (204-223p)|서브쿼리, 상관 서브쿼리|
 |11주차|8장 (225-239p)|테이블 설계 (1)|25-27강 (227-248p)|DB 객체, 테이블 작성/삭제/변경, <br> 작성 제약 |
@@ -173,14 +173,14 @@
 
 | 참여자 | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 | 9주차 | 10주차 | 11주차 | 12주차 | 13주차 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
-| 김민웅 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
-| 김서경 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
-| 김서영 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
-| 김소미 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
-| 박근우 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
-| 서연주 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
-| 신은지 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
-| 오현택 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
+| 김민웅 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|(사유 O)||||||
+| 김서경 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||
+| 김서영 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||
+| 김소미 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|(사유 O)||||||
+| 박근우 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||
+| 서연주 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|(사유 O)||||||
+| 신은지 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||
+| 오현택 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||
 | 용길한 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||||
-| Ryan Lee |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
+| Ryan Lee |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||
 
