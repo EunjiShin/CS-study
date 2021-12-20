@@ -65,7 +65,7 @@
 |[11주차](https://github.com/EunjiShin/CS-study/issues/33)|(종료)|(종료)|9장 (229-248p)|HTTP에 기능을 추가한 프로토콜|
 |[12주차](https://github.com/EunjiShin/CS-study/issues/34)|(종료)|(종료)|10장 (249-262p)|웹 콘텐츠에서 사용하는 기술|
 |[13주차](https://github.com/EunjiShin/CS-study/issues/37)|(종료)|(종료)|11.1-11.2장 (263-292p)|웹 공격 기술, 취약성 (1)|
-|14주차|(종료)|(종료)|11.3-11.5장 (293-314p)|취약성(2,3), 기타|
+|[14주차](https://github.com/EunjiShin/CS-study/issues/40)|(종료)|(종료)|11.3-11.5장 (293-314p)|취약성(2,3), 기타|
 
 
 <br>
@@ -161,8 +161,8 @@
 |[11주차](https://github.com/EunjiShin/CS-study/issues/31)|8장 (225-239p)|테이블 설계 (1)|25-27강 (227-248p)|DB 객체, 테이블 작성/삭제/변경, <br> 작성 제약 |
 |[12주차](https://github.com/EunjiShin/CS-study/issues/36)|8장 (240-255p)|테이블 설계 (2)|28-30강 (249-269p)|인덱스, 뷰|
 |[13주차](https://github.com/EunjiShin/CS-study/issues/39)|9장 (261-273p)|백업과 복구|31-32강 (274-300p)|집합, 테이블 결합|
-|14주차|10장 (279-289p)|성능 향상 (1)|33-34강 (304-308p, 312-318p)|관계형 모델, DB 설계|
-|15주차|10장 (290-309p)|성능 향상 (2)|35-36강 (319-333p)|정규화, 트랜잭션|
+|[14주차](https://github.com/EunjiShin/CS-study/issues/41)|10장 (279-289p)|성능 향상 (1)|33-34강 (304-308p, 312-318p)|관계형 모델, DB 설계|
+|[15주차](https://github.com/EunjiShin/CS-study/issues/42)|10장 (290-309p)|성능 향상 (2)|35-36강 (319-333p)|정규화, 트랜잭션|
 
 
 <br>
